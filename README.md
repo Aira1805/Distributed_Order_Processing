@@ -24,3 +24,12 @@ Reflection Answers
 6. How did you ensure consistent results when using multiple processes?
 
 -Consistency was ensured by centralizing the collection of results in the master process. Workers only processed tasks and sent results, while the master handled all storage and final output. This avoided conflicts and ensured correct and complete results.
+
+FINAL RESULT
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50c9d185-19a4-4a4e-9965-d6c84892d114" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06a4adb4-ad3e-426c-992c-4d7babeb8bb8" />
+
+
+
+
