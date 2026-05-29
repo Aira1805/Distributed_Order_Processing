@@ -29,7 +29,3 @@ FINAL RESULT
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50c9d185-19a4-4a4e-9965-d6c84892d114" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/06a4adb4-ad3e-426c-992c-4d7babeb8bb8" />
-
-
-
-
